@@ -1,0 +1,30 @@
+git flow - o que é e como trabalhar
+
+release 
+
+main 
+
+---
+
+development 
+
+features 
+
+hotfix
+
+fix
+
+minor/major/maior
+
+3.0.0
+
+---
+
+git add server.py / git add .
+git commit -m "Qualquer comentário"
+git push origin main / --force 
+git checkout nome-branch / git checkout -b nome-branch - criar uma branch 
+
+git log - mostra logs
+git diff - mostra diferenca de commits
+
